@@ -1,0 +1,322 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul {
+  list-style-type: none;
+  overflow: hidden;
+}
+
+li{
+  float: right;
+  
+}
+li a {
+  display: block;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 40px 50px;
+  text-decoration: none;
+ 
+  font-weight: 300;
+  font-size: 23px;
+
+  line-height: 29px;
+  font-family: sans-serif;
+  
+
+}
+h1{
+  font-size: 40px;
+  color: white;
+  font-family: sans-serif;
+  font-weight: 100;
+  text-align: center;
+  position: relative;
+  top: 250px;
+  
+}
+
+
+body{
+  background-color: #EDEDED;
+}
+
+
+.block{
+ background-image: url(../img/glav.jpg);
+  height: 800px;
+  width: 100%;
+
+}
+
+.line{
+  border: 3px solid white;
+  position: relative;
+  top: 350px;
+  width: 400px;
+  left: 770px;
+}
+
+
+h2{
+  font-size: 50px;
+  color: white;
+  font-family: sans-serif;
+  font-weight: 100;
+  text-align: center;
+  position: relative;
+  top: 450px;
+   
+}
+
+.a{
+  width: 91px;
+height: 87px;
+
+background:  black;
+border-radius: 50%;
+position: relative;
+top: 300px;
+left: 100px;
+}
+
+.gigi{
+  color: rgb(255, 255, 255);
+  position: relative;
+  top: 30px;
+  left: 40px;
+  font-size: 30px
+}
+
+.negr{
+  width: 1123px;
+height: 270px;
+color: black;
+position: relative;
+top: 330px;
+left: 200px;
+font-size: 30px;
+font-family: sans-serif;
+}
+
+.b{
+  color: rgb(255, 255, 255);
+  position: relative;
+  top: 500px;
+  left: 1000px;
+  font-size: 30px;
+}
+.logo{
+  width: 99px;
+  height: 97px;
+  position: relative;
+  left: -1000px;
+}
+
+.two{
+  background-image: url(../img/3.png);
+  width: 90px;
+  height: 90px;
+  background-size: cover;
+  position: relative;
+  top: 400px;
+  left: 1740px;
+}
+
+
+.snegr{
+  width: 1123px;
+  height: 270px;
+  color: black;
+  position: relative;
+  top: 430px;
+  left: 700px;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+.ing{
+  background-image: url(../img/7.png);
+ width: 300px;
+ height: 200px;
+  position: relative;
+  left: 200px;
+  background-size: cover;
+  top: 90px
+}
+
+.app{
+  background-image: url(../img/4.png);
+  background-size: cover;
+  width: 90px;
+  height: 90px;
+  top: 340px;
+  left: 100px;
+  position: relative;
+}
+
+
+.scc{
+  width: 1123px;
+  height: 270px;
+  color: black;
+  position: relative;
+  top: 370px;
+  left: 200px;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+.sigma{
+  width: 300px;
+ height: 200px;
+  position: relative;
+  left: 1500px;
+  background-size: cover;
+  top: 90px;
+  background-image: url(../img/6.png);
+}
+
+
+.meta{
+  height: 1000px;
+  width: 100%;
+  background-color: #DDDDDD;
+  position: relative;
+  top: 400px;
+}
+
+.h1{
+  color: black;
+}
+
+.choob{
+  width: 1123px;
+  height: 270px;
+  color: black;
+  position: relative;
+  top: 370px;
+  left: 200px;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+.up{
+  width: 1123px;
+  height: 270px;
+  color: black;
+  position: relative;
+  top: 100px;
+  left: 600px;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+.ppp{
+  width: 1123px;
+  height: 270px;
+  color: black;
+  position: relative;
+  top: 100px;
+  left: 200px;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+.rrr{
+  width: 1123px;
+  height: 270px;
+  color: black;
+  position: relative;
+  top: -170px;
+  left: 600px;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+
+.ooo{
+  width: 1123px;
+  height: 270px;
+  color: black;
+  position: relative;
+  top: -200px;
+  left: 200px;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+
+.ttt{
+  width: 1123px;
+  height: 270px;
+  color: black;
+  position: relative;
+  top: -480px;
+  left: 600px;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+
+footer{
+  width: 100%;
+  height: 600px;
+  background-color: #333333;
+  position: relative;
+  top: -650px;
+}
+
+.iii{
+color: white;
+position: relative;
+
+top: -400px;
+font-family: sans-serif;
+font-size: 30px;
+
+}
+
+.mmm{
+  background-image: url(../img/123.png);
+  display: block;
+  width: 400px;
+  background-size: cover;
+  height: 300px;
+  position: relative;
+  left: 1300px;
+ bottom: 300px;
+color: white;
+left: 200;
+font-family: sans-serif;
+}
+
+.title-word {
+  animation: color-animation 4s linear infinite;
+}
+
+.title-word-1 {
+  --color-1: #e1ddda;
+  --color-2: #1846df;
+  --color-3: #df221f;
+}
+
+.title-word-2 {
+  --color-1: #cb4a4a;
+  --color-2: #174ec6;
+  --color-3: #ebf5ed;
+}
+
+.title-word-3 {
+  --color-1: #e63225;
+  --color-2: #E4A9A8;
+  --color-3: #486fdb;
+}
+
+.title-word-4 {
+  --color-1: #0f658a;
+  --color-2: #b01919;
+  --color-3: #E4A9A8;
+}
